@@ -30,7 +30,7 @@
 ### **🧠 About Me**  
 - 🔭 Working on **AI, Deep Learning & Cloud Databases**  
 - 🌱 Learning **Advanced CNN Architectures & Open-Source AI**  
-- 📫 Reach me via **[Email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)**  
+- 📫 Reach me via **[Email](mailto:bniloy960@gmail.com) or [LinkedIn](https://www.linkedin.com/in/niloy-biswas-620b7b2a7/)**  
 
 ---
 
