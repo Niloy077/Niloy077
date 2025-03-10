@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Niloy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%7C+Deep+Learning+%7C+Cloud+Databases;Passionate+about+Tech+%26+Research;Let's+build+cool+stuff+together!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Let's+build+cool+stuff+together!">
 </p>
 
 ---
