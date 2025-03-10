@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/Niloy.Biswas0077" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://discord.gg/YOUR-DISCORD" target="_blank">
+  <a href="https://discordapp.com/users/1284205442028929035" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
