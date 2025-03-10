@@ -36,7 +36,7 @@
 
 ### **💡 Tech Stack**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,java,github,vscode,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,java,github,vscode,postgresql,azure" />
 </p>
 
 ---
