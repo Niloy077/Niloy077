@@ -1,23 +1,50 @@
-## Hi there 👋, I'm Niloy
+<h1 align="center">Hi there, I'm Niloy 👋</h1>
 
-### 💻 About Me
-- 🔭 I’m currently working on AI & Deep Learning projects  
-- 🌱 I’m learning advanced CNN architectures  
-- 🤝 I’m looking to collaborate on open-source AI projects  
-- ⚡ Fun fact: I love exploring AI & cloud databases!  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%7C+Deep+Learning+%7C+Cloud+Databases;Passionate+about+Tech+%26+Research;Let's+build+cool+stuff+together!">
+</p>
 
 ---
 
-### 📊 My GitHub Stats  
-![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy077&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy077&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niloy077&theme=radical)  
+### **🌐 Connect with Me**  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Niloy077" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🔥 GitHub Contribution Graph  
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Niloy077&theme=react)  
+### **🧠 About Me**  
+- 🔭 Working on **AI, Deep Learning & Cloud Databases**  
+- 🌱 Learning **Advanced CNN Architectures & Open-Source AI**  
+- 🎯 Passionate about **Neural Networks, PPI Prediction, and AI Research**  
+- 📫 Reach me via **[Email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)**  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Niloy077&color=blue)  
+### **🔥 Fun Fact**  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+</p>  
+
+---
+
+### **💡 Tech Stack**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,java,github,vscode,postgresql,aws" />
+</p>
+
+---
+
+### **💬 Let's Build Something Awesome!**  
+> 🚀 If you love AI, Deep Learning, and Open Source, let’s connect and collaborate!  
