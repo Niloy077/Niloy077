@@ -30,15 +30,7 @@
 ### **🧠 About Me**  
 - 🔭 Working on **AI, Deep Learning & Cloud Databases**  
 - 🌱 Learning **Advanced CNN Architectures & Open-Source AI**  
-- 🎯 Passionate about **Neural Networks, PPI Prediction, and AI Research**  
 - 📫 Reach me via **[Email](mailto:your.email@example.com) or [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)**  
-
----
-
-### **🔥 Fun Fact**  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
-</p>  
 
 ---
 
